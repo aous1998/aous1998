@@ -48,8 +48,8 @@
 <hr><h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/awsabdulhamed/Senior-Project-Songs-Generator" title="Soul Composer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Senior-Project-Songs-Generator&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/awsabdulhamed/Junior-Project-Speech-Training-App-For-Stroke-Patients" title="Speech Training App for Stroke Patients"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Junior-Project-Speech-Training-App-For-Stroke-Patients&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/aous1998/Soul-Composer" title="Soul Composer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Senior-Project-Songs-Generator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/aous1998/Fluencia" title="Fluencia"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Junior-Project-Speech-Training-App-For-Stroke-Patients&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
