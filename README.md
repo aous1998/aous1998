@@ -26,9 +26,9 @@
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/c--4.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Django" height="25" src="images/django.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
