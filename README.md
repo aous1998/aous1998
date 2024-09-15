@@ -10,23 +10,20 @@
   <code><a href="https://www.linkedin.com/in/aous-abdulhamid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/25087596/aous-abdulhamid" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
-<br>
+
 <p align="center">
-  Hi, I'm Aous Abdulhamid, an Artificial Intelligence Engineer & junior data scientist based in Germany
-  <br>
-  <br>
-  🔬 I'm currently studying for my Master's in Artificial Intelligence Engineering at the University of Passau, Germany
-  <br>
-  🎓 I graduated from Arab International University, with a Bachelor's in Informatics Engineering
-  <br>
-  💻 I love writing code and learning anything about it
-  <br>
-  📫 How to reach me: <a href="mailto: aous.ah2@gmail.com">aous.ah2@gmail.com</a>
+  Hi, I'm Aous Abdulhamid, an Artificial Intelligence Engineer & Junior Data Scientist based in Germany.
+  <br><br>
+  🔬 I'm currently studying for my Master's in Artificial Intelligence Engineering at the University of Passau, Germany.<br>
+  🎓 I graduated from Arab International University with a Bachelor's in Informatics Engineering.<br>
+  💻 I love writing code and learning anything related to it.<br>
+  📫 How to reach me: <a href="mailto:aous.ah2@gmail.com">aous.ah2@gmail.com</a>
 </p>
 
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
@@ -45,29 +42,30 @@
   <code><img title="Windows" height="25" src="images/windows-svgrepo-com.svg"></code>
   <code><img title="Linux" height="25" src="images/linux-svgrepo-com.svg"></code>
 </p>
-<hr><h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/aous1998/Soul-Composer" title="Soul Composer">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Soul-Composer&theme=react&border_color=61dafb&border_radius=10">
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<div align="center">
+  <a href="https://github.com/aous1998/Soul-Composer" title="Soul Composer">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Soul-Composer&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/aous1998/Fluencia" title="Speech Training App for Stroke Patients">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Fluencia&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/aous1998/Fluencia" title="Speech Training App for Stroke Patients">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Fluencia&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
+<br/>
 
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/aous1998/Leetcode-Problems" title="Leetcode Problems">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Leetcode-Problems&theme=react&border_color=61dafb&border_radius=10">
+<div align="center">
+  <a href="https://github.com/aous1998/Leetcode-Problems" title="Leetcode Problems">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Leetcode-Problems&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/aous1998/Python-Projects-Games" title="Python Projects Games">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Python-Projects-Games&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/aous1998/Python-Projects-Games" title="Python Projects Games">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Python-Projects-Games&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/aous1998?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
