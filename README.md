@@ -12,7 +12,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Aous Abdulhamid, an Artificial Intelligence Engineer & Junior Data Scientist based in Germany.
+  Hi, I'm Aous Abdulhamid, an Artificial Intelligence Engineer.
   <br><br>
   🔬 I'm currently studying for my Master's in Artificial Intelligence Engineering at the University of Passau, Germany.<br>
   🎓 I graduated from Arab International University with a Bachelor's in Informatics Engineering.<br>
