@@ -1,72 +1,48 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aous-Abdulhamid.Aous-Abdulhamid">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aous+Abdulhamid;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/aous-abdulhamid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackoverflow.com/users/25087596/aous-abdulhamid" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-</h5>
+<h1 align="center">Aous Abdulhamid</h1>
+<h3 align="center">AI Engineer · Generative AI · Agentic & Multi-Agent Systems · RAG · MLOps</h3>
 
 <p align="center">
-  Hi, I'm Aous Abdulhamid, an Artificial Intelligence Engineer.
-  <br><br>
-  🔬 I'm currently studying for my Master's in Artificial Intelligence Engineering at the University of Passau, Germany.<br>
-  🎓 I graduated from Arab International University with a Bachelor's in Informatics Engineering.<br>
-  💻 I love writing code and learning anything related to it.<br>
-  📫 How to reach me: <a href="mailto:aous.ah2@gmail.com">aous.ah2@gmail.com</a>
+  <a href="https://www.linkedin.com/in/aous-abdulhamid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aous.ah2@gmail.com"><img src="https://img.shields.io/badge/Email-aous.ah2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://stackoverflow.com/users/25087596/aous-abdulhamid"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
 </p>
 
-<hr>
+I build Generative AI systems — agentic RAG pipelines, multi-agent architectures with LangChain/LangGraph, and LLM evaluation — with a background in software and data engineering. Currently an AI Engineer at **Webasto**, building enterprise Generative AI tools for R&D engineering, while finishing an M.Sc. in Artificial Intelligence Engineering at the **University of Passau** (thesis on multi-turn LLM evaluation).
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+- 🔭 Currently building an agentic RAG system on Azure that helps automotive engineers verify battery designs against enterprise data sources (SAP, CATIA, IBM DOORS), and a LangGraph agent that runs engineering simulations from natural language.
+- 🌱 Thesis work on multi-turn LLM evaluation.
+- 💬 Ask me about RAG pipelines, agentic workflows, or Azure MLOps.
+- 📫 Reach me at [aous.ah2@gmail.com](mailto:aous.ah2@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aous-abdulhamid/).
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [AI-Agent-using-LangChain-and-RAG](https://github.com/aous1998/AI-Agent-using-LangChain-and-RAG-) | Retrieval-augmented agent built with LangChain, combining document retrieval with LLM reasoning. |
+| [AI-Trip-Planner](https://github.com/aous1998/AI-Trip-Planner) | AI-assisted travel planning app built with TypeScript. |
+| [Smart-Web-Scraper](https://github.com/aous1998/Smart-Web-Scraper) | LLM-assisted web scraping pipeline for structured data extraction. |
+| [AI-Voice-Assistant](https://github.com/aous1998/AI-Voice-Assistant) | Voice-driven assistant combining speech processing with an LLM backend. |
+| [Soul Composer](https://github.com/aous1998/Soul-Composer) | AI song-composition app covering the full ML lifecycle, from data pipeline and model training to full-stack delivery. B.Sc. thesis, graded 95/100. |
+| [Fluencia](https://github.com/aous1998/Fluencia) | AI-powered speech-training app that helps stroke patients regain language skills. |
+
+## Skills
+
+**Generative & Agentic AI:** LangChain · LangGraph · MCP · RAG · Multi-Agent Systems · Function Calling · LLM Evaluation (RAGAS, Azure AI Evaluation SDK) · Azure OpenAI · Claude API
+
+**Machine Learning:** TensorFlow · Keras · NLP · Computer Vision · MLflow
+
+**Software Engineering:** Python · C# · TypeScript · FastAPI · Flask · React · REST APIs
+
+**Data & MLOps:** Azure (AI Search, Container Apps, Cosmos DB, Bicep) · Docker · Kubernetes · CI/CD (GitLab, GitHub Actions) · SQL
 
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C#" height="25" src="images/c--4.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Django" height="25" src="images/django.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/google-tensorflow-icon.svg"></code>
-  <code><img title="Keras" height="25" src="images/keras-svgrepo-com.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas-svgrepo-com.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy-svgrepo-com.svg"></code>
-  <code><img title="Scikit-Learn" height="25" src="images/scikitlearn-svgrepo-com.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase-svgrepo-com.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Windows" height="25" src="images/windows-svgrepo-com.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux-svgrepo-com.svg"></code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-<div align="center">
-  <a href="https://github.com/aous1998/Soul-Composer" title="Soul Composer">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Soul-Composer&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/aous1998/Fluencia" title="Speech Training App for Stroke Patients">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Fluencia&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/aous1998/Leetcode-Problems" title="Leetcode Problems">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Leetcode-Problems&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/aous1998/Python-Projects-Games" title="Python Projects Games">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aous1998&repo=Python-Projects-Games&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<h4 align="center">
-  <a href="https://github.com/aous1998?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
