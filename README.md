@@ -14,16 +14,39 @@ I build Generative AI systems — agentic RAG pipelines, multi-agent architectur
 - 💬 Ask me about RAG pipelines, agentic workflows, or Azure MLOps.
 - 📫 Reach me at [aous.ah2@gmail.com](mailto:aous.ah2@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aous-abdulhamid/).
 
+## Experience
+
+**AI Engineer (Working Student), [Webasto](https://www.webasto-group.com/)** — Munich, Germany · Jan 2025 – present
+- Built an agentic RAG system on Azure that lets engineers verify battery designs for premium automotive OEMs, cutting verification time significantly. Connected SAP, 3DEXPERIENCE/CATIA, and IBM DOORS Next into a single hybrid-search retrieval layer (Azure AI Search) with traceable citations, validated with RAGAS and the Azure AI Evaluation SDK.
+- Own the full deployment: multi-stage Docker builds on Azure Container Apps, Bicep IaC, Entra ID auth, Cosmos DB/Blob storage, GitLab CI/CD, and a React + TypeScript dashboard SPA.
+- Building a LangGraph ReAct agent that runs Abaqus engineering simulations from natural language across 15 tools, with database-backed checkpointing on Azure OpenAI.
+
+**Freelance AI Developer** — Oct 2020 – Sept 2022
+- Shipped [Soul Composer](https://github.com/aous1998/Soul-Composer), an AI song-composition app (B.Sc. thesis, graded 95/100) and [Fluencia](https://github.com/aous1998/Fluencia), an AI speech-training app for stuttering therapy.
+
+**Data Scientist (Working Student), MTN Group** — Oct 2018 – Sept 2019
+- Analyzed churn/usage data to support retention offers (+30% retention) and shipped a Flask-based customer segmentation tool for non-technical users.
+
+## Education
+
+- **M.Sc. Artificial Intelligence Engineering**, University of Passau, Germany — Apr 2024 – Oct 2026 (thesis: multi-turn LLM evaluation)
+- **B.Sc. Informatics Engineering**, Arab International University — Oct 2017 – Sept 2023 (ranked 3rd of 114 in the National Bachelor's Exam)
+
+## Certifications
+
+Building with Claude API (Anthropic) · Retrieval Augmented Generation (DeepLearning.AI) · Data Analysis with Python (IBM) · Neural Networks and Deep Learning (DeepLearning.AI) · Machine Learning with Python (IBM)
+
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| [AI-Agent-using-LangChain-and-RAG](https://github.com/aous1998/AI-Agent-using-LangChain-and-RAG-) | Retrieval-augmented agent built with LangChain, combining document retrieval with LLM reasoning. |
-| [AI-Trip-Planner](https://github.com/aous1998/AI-Trip-Planner) | AI-assisted travel planning app built with TypeScript. |
-| [Smart-Web-Scraper](https://github.com/aous1998/Smart-Web-Scraper) | LLM-assisted web scraping pipeline for structured data extraction. |
-| [AI-Voice-Assistant](https://github.com/aous1998/AI-Voice-Assistant) | Voice-driven assistant combining speech processing with an LLM backend. |
+| [AI Agent — LangChain + RAG](https://github.com/aous1998/AI-Agent-using-LangChain-and-Retrieval-Augmented-Generation-RAG-) | Retrieval-augmented agent built with LangChain: indexes GitHub issues into a vector store and answers questions over them. |
+| [Smart Web Scraper](https://github.com/aous1998/Smart-Web-Scraper) | LLM-assisted scraper — Selenium + BeautifulSoup extraction, parsed by a local LLM via LangChain. |
+| [AI Trip Planner](https://github.com/aous1998/AI-Trip-Planner) | Full-stack trip manager with a natural-language AI query interface (React + TypeScript). |
+| [AI Voice Assistant](https://github.com/aous1998/AI-Voice-Assistant) | Wake-word voice assistant that answers Google Calendar queries and takes notes. |
+| [Resume App](https://github.com/aous1998/resume_app) | Live Django portfolio site — [resume-app-pgqw.onrender.com](https://resume-app-pgqw.onrender.com/) |
 | [Soul Composer](https://github.com/aous1998/Soul-Composer) | AI song-composition app covering the full ML lifecycle, from data pipeline and model training to full-stack delivery. B.Sc. thesis, graded 95/100. |
-| [Fluencia](https://github.com/aous1998/Fluencia) | AI-powered speech-training app that helps stroke patients regain language skills. |
+| [Fluencia](https://github.com/aous1998/Fluencia) | AI-powered speech-training app for stuttering therapy. |
 
 ## Skills
 
