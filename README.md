@@ -44,7 +44,7 @@ Building with Claude API (Anthropic, 2026) · Retrieval Augmented Generation (De
 
 | Project | Stack | Description |
 |---|---|---|
-| **Production-Grade RAG Knowledge Assistant** | Python, LangChain, ChromaDB, Cohere Rerank, LangSmith | Scaled a RAG pipeline from 10 to 10,000+ documents, fixing five production failure modes with hybrid search (BM25 + dense), cross-encoder reranking, parent-document retrieval, tracing, and caching. |
+| [Production-Grade RAG Knowledge Assistant](https://github.com/aous1998/Production-Grade-RAG-Knowledge-Assistant-) | Python, LangChain, ChromaDB, Cohere Rerank, LangSmith | Scaled a RAG pipeline from 10 to 10,000+ documents, fixing five production failure modes with hybrid search (BM25 + dense), cross-encoder reranking, parent-document retrieval, tracing, and caching. |
 | [TripMate AI](https://github.com/aous1998/TripMate-AI) | Python, LangGraph, MCP, FastAPI, PostgreSQL, Docker | Multi-agent travel planner: a supervisor routes to six specialised agents over a typed state graph, with MCP tools, guardrails, and human-in-the-loop approval. |
 | [Slotfill](https://github.com/aous1998/slotfill) | Python, Hugging Face Transformers, PEFT, vLLM | LoRA fine-tuned adapter for strict-schema invoice extraction, benchmarked against a frontier LLM. |
 | **Doorman** | Python, LangGraph, Guard Model | Prompt-injection guardrails for a resume-screening agent, hardened with tool allowlists and a 60-attack red-team suite. |
@@ -68,6 +68,8 @@ Building with Claude API (Anthropic, 2026) · Retrieval Augmented Generation (De
 **Programming & Backend:** Python · C# · TypeScript · JavaScript · FastAPI · Flask · React · Streamlit
 
 **Databases:** SQL · PostgreSQL · MySQL · SQL Server · Cosmos DB · pgvector · ChromaDB · Pinecone
+
+**Tools & Practices:** Git · GitHub Actions · Pytest · GitHub Copilot · Jira · Agile/Scrum · Responsible AI · GDPR
 
 **Languages:** English (C1, fluent) · Arabic (native) · German (A2, B1 expected Jan 2027)
 
